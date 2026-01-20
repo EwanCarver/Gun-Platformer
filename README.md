@@ -15,3 +15,5 @@
 
 ![gun](https://github.com/EwanCarver/FlappyGun/blob/main/src/gun.gif?raw=true)
 ![gunweyes](https://github.com/EwanCarver/Gun-Platformer/blob/main/src/guneyes.gif?raw=true)
+
+![celeste](https://github.com/EwanCarver/Gun-Platformer/blob/main/src/celeste.gif?raw=true)
